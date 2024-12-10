@@ -1,2 +1,2 @@
-# Awesome-Vega
-Awesome Vega
+# Awesome Vega
+{Awesome Works in Progress}
